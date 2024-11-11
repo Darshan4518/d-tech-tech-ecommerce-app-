@@ -136,7 +136,7 @@
    <p>Have questions? Reach out:</p>
     <ul>
         <li><strong>Email</strong>: your_email@example.com</li>
-        <li><strong>GitHub</strong>: <a href="https://github.com/yourusername">yourusername</a></li>
+        <li><strong>GitHub</strong>: <a href="https://github.com/Darshan4518">Darshan4518</a></li>
     </ul>
 
   <hr>
