@@ -1,8 +1,8 @@
 import express from "express";
 import userRoute from "./routes/user.route";
 import orderRoute from "./routes/order.route";
-
 import cors from "cors";
+
 const app = express();
 
 // For JSON bodies

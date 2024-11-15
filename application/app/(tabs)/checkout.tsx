@@ -135,7 +135,7 @@ const Checkout = () => {
         }
         contentContainerStyle={products.length === 0 ? { flex: 1 } : {}}
       />
-      <OrderComponent />
+      {products?.length > 0 && <OrderComponent />}
     </SafeAreaView>
   );
 };
