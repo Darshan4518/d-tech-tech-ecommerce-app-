@@ -13,6 +13,13 @@
         <li>🔄 <strong>Data Fetching</strong>: React Query simplifies API calls and caching.</li>
     </ul>
     <hr>
+    
+<h2> ScreenShots </h2>
+
+![Screenshot 2025-01-01 181128](https://github.com/user-attachments/assets/f3f1677a-61be-45fb-a0c3-209de11ba959)
+![Screenshot 2025-01-01 181140](https://github.com/user-attachments/assets/474df7bf-7d76-458a-a7c6-baed48698590)
+![Screenshot 2025-01-01 181202](https://github.com/user-attachments/assets/5bd2fc2a-e97a-4e75-9069-673e056b528c)
+
   <h2>🛠️ Tech Stack</h2>
     <table border="1">
         <tr>
